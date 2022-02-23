@@ -1,0 +1,12 @@
+C:\Users\Boris\Desktop\Система за контрол на достъп\WorkAttendanceEvidence\bin\Debug\WorkAttendanceEvidence.exe.config
+C:\Users\Boris\Desktop\Система за контрол на достъп\WorkAttendanceEvidence\bin\Debug\WorkAttendanceEvidence.exe
+C:\Users\Boris\Desktop\Система за контрол на достъп\WorkAttendanceEvidence\bin\Debug\WorkAttendanceEvidence.pdb
+C:\Users\Boris\Desktop\Система за контрол на достъп\WorkAttendanceEvidence\bin\Debug\UsbRelayNet.dll
+C:\Users\Boris\Desktop\Система за контрол на достъп\WorkAttendanceEvidence\bin\Debug\UsbRelayNet.pdb
+C:\Users\Boris\Desktop\Система за контрол на достъп\WorkAttendanceEvidence\obj\Debug\WorkAttendanceEvidence.Main.resources
+C:\Users\Boris\Desktop\Система за контрол на достъп\WorkAttendanceEvidence\obj\Debug\WorkAttendanceEvidence.Properties.Resources.resources
+C:\Users\Boris\Desktop\Система за контрол на достъп\WorkAttendanceEvidence\obj\Debug\WorkAttendanceEvidence.csproj.GenerateResource.cache
+C:\Users\Boris\Desktop\Система за контрол на достъп\WorkAttendanceEvidence\obj\Debug\WorkAttendanceEvidence.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Система за контрол на достъп\WorkAttendanceEvidence\obj\Debug\WorkAttendanceEvidence.csproj.CopyComplete
+C:\Users\Boris\Desktop\Система за контрол на достъп\WorkAttendanceEvidence\obj\Debug\WorkAttendanceEvidence.exe
+C:\Users\Boris\Desktop\Система за контрол на достъп\WorkAttendanceEvidence\obj\Debug\WorkAttendanceEvidence.pdb

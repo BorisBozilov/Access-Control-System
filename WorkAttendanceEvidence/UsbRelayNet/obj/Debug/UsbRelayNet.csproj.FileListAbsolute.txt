@@ -1,0 +1,7 @@
+C:\Users\Boris\Desktop\usb-relay-hid-master\usb-relay-hid-master\UsbRelayNet\bin\Debug\UsbRelayNet.xml
+C:\Users\Boris\Desktop\usb-relay-hid-master\usb-relay-hid-master\UsbRelayNet\bin\Debug\UsbRelayNet.dll
+C:\Users\Boris\Desktop\usb-relay-hid-master\usb-relay-hid-master\UsbRelayNet\bin\Debug\UsbRelayNet.pdb
+C:\Users\Boris\Desktop\usb-relay-hid-master\usb-relay-hid-master\UsbRelayNet\obj\Debug\UsbRelayNet.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\usb-relay-hid-master\usb-relay-hid-master\UsbRelayNet\obj\Debug\UsbRelayNet.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\usb-relay-hid-master\usb-relay-hid-master\UsbRelayNet\obj\Debug\UsbRelayNet.dll
+C:\Users\Boris\Desktop\usb-relay-hid-master\usb-relay-hid-master\UsbRelayNet\obj\Debug\UsbRelayNet.pdb
