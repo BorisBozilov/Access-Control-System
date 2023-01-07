@@ -6,3 +6,5 @@ The access control and time attendance system described in this development is b
 ![App Screenshot](https://raw.githubusercontent.com/BorisBozilov/Access-Control-System/main/ReadMeImages/BlockDiagramOfRFIDscanning.png)
 
 The system, being developed primarily for educational purposes, is built from general purpose PC hardware, widely available on the market at relatively low prices, based on the MS Windows operating system.
+
+![App Screenshot](https://raw.githubusercontent.com/BorisBozilov/Access-Control-System/main/ReadMeImages/Input%20and%20output%20hardware%20devices%20of%20the%20control%20module.png)
